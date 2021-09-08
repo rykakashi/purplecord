@@ -7,15 +7,7 @@
         "url": "https:\/\/i.pinimg.com\/originals\/81\/f5\/49\/81f54989c79b1e0b401f98fa575e541f.jpg"
     },
     "fonts": {
-        "*": "https:\/\/cdn.discordapp.com\/attachments\/847528263239729212\/885264854309543996\/PlayfairDisplaySC-Regular.otf",
-        "ginto_bold": "https:\/\/cdn.discordapp.com\/attachments\/847528263239729212\/885264854309543996\/PlayfairDisplaySC-Regular.otf",
-        "ginto_medium": "https:\/\/cdn.discordapp.com\/attachments\/847528263239729212\/885264854309543996\/PlayfairDisplaySC-Regular.otf",
-        "ginto_regular": "https:\/\/cdn.discordapp.com\/attachments\/847528263239729212\/885264854309543996\/PlayfairDisplaySC-Regular.otf",
-        "roboto_medium_numbers": "https:\/\/cdn.discordapp.com\/attachments\/847528263239729212\/885264854309543996\/PlayfairDisplaySC-Regular.otf",
-        "sourcecodepro_semibold": "https:\/\/cdn.discordapp.com\/attachments\/847528263239729212\/885264854309543996\/PlayfairDisplaySC-Regular.otf",
-        "whitney_bold": "https:\/\/cdn.discordapp.com\/attachments\/847528263239729212\/885264854309543996\/PlayfairDisplaySC-Regular.otf",
-        "whitney_medium": "https:\/\/cdn.discordapp.com\/attachments\/847528263239729212\/885264854309543996\/PlayfairDisplaySC-Regular.otf",
-        "whitney_semibold": "https:\/\/cdn.discordapp.com\/attachments\/847528263239729212\/885264854309543996\/PlayfairDisplaySC-Regular.otf"
+        "*": "https:\/\/cdn.discordapp.com\/attachments\/847528263239729212\/885264854309543996\/PlayfairDisplaySC-Regular.otf"
     },
     "simple_colors": {
         "active_channel": -65430,
