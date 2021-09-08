@@ -1,0 +1,2 @@
+# purplecord
+A Aliucord theme
